@@ -1,0 +1,48 @@
+Complete setup:
+Tools:
+0. install Oracle JRE 8 + JDK 8
+1. Add "performance-analyser" extension to browser
+https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf
+https://github.com/micmro/performance-bookmarklet
+2. install Jmeter 5.3/5.4
+3. Download plugin manager from "https://jmeter-plugins.org/install/Install/"
+4. add plugin manager to the >>(apache-jmeter-5.4\lib\ext)
+5. Add this Jmeter plugins to the jmeter.bat file:
+- 3 Basic Graphs
+- 5 Additional Graphs
+- Auto-Stop Listener
+- Command-Line Graph Plotting Tool
+- Composite Timeline Graph
+- Console Status Logger
+- Custom JMeter Functions
+- Custom Thread Groups
+- Dummy Sampler
+- Filter Results Tool
+- Flexible File Writer
+- Graphs Generator Listener
+- HTTP Form Manager
+- HTTP Raw Request
+- Inter-Thread Communication
+- JMeter Listener pack
+- KPI vs KPI Graphs
+- Merge Results
+- Parallel Controller & Sampler
+- Parameterized Controller & Set Variables Action
+- Random CSV Data Set
+- Rotating JTL Listener
+- SSH Protocol Support
+- Selenium/WebDriver Support
+- Synthesis Report
+- Throughput Shaping Timer
+- Test Plan Check Tool
+- UDP Protocol Support
+- Variables from CSV File
+- XML Plugins
+- jpgc - Standard Set
+
+6. add balzemeter extension to browser
+https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi
+7. login to balzemeter to record the jmx file
+
+8.tutorial for blazemeter:
+https://www.youtube.com/watch?v=GSIiaH334Lo
