@@ -1,0 +1,33 @@
+2021-03-02 07:43:34,147 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-03-02 07:43:34,158 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-03-02 07:43:34,158 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-03-02 07:43:34,164 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-03-02 07:43:34,164 INFO o.a.j.JMeter: Version 5.4
+2021-03-02 07:43:34,164 INFO o.a.j.JMeter: java.version=1.8.0_111
+2021-03-02 07:43:34,164 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-03-02 07:43:34,164 INFO o.a.j.JMeter: os.name=Windows 10
+2021-03-02 07:43:34,164 INFO o.a.j.JMeter: os.arch=amd64
+2021-03-02 07:43:34,164 INFO o.a.j.JMeter: os.version=10.0
+2021-03-02 07:43:34,165 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-03-02 07:43:34,165 INFO o.a.j.JMeter: java.awt.headless=null
+2021-03-02 07:43:34,165 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-03-02 07:43:34,165 INFO o.a.j.JMeter: Available Processors =12
+2021-03-02 07:43:34,168 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-03-02 07:43:34,168 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-03-02 07:43:34,168 INFO o.a.j.JMeter: JMeterHome=D:\Softs\Jmeter\apache-jmeter-5.4\apache-jmeter-5.4
+2021-03-02 07:43:34,168 INFO o.a.j.JMeter: user.dir  =D:\Softs\Jmeter\apache-jmeter-5.4\apache-jmeter-5.4\bin
+2021-03-02 07:43:34,168 INFO o.a.j.JMeter: PWD       =D:\Softs\Jmeter\apache-jmeter-5.4\apache-jmeter-5.4\bin
+2021-03-02 07:43:38,902 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: DESKTOP-Q8NNRQ7 FullName: DESKTOP-Q8NNRQ7
+2021-03-02 07:43:38,955 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2021-03-02 07:43:39,279 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-03-02 07:43:41,104 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-818235f08b2ce0f3be0bd281d299fc9a-gui
+2021-03-02 07:43:41,865 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-03-02 07:43:41,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-03-02 07:43:41,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-03-02 07:43:41,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-03-02 07:43:41,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-03-02 07:43:41,866 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-03-02 07:43:42,330 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2021-03-02 07:43:42,330 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
+2021-03-02 07:43:43,679 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, jpgc-cmd=2.2, jpgc-graphs-composite=2.0, jpgc-csl=0.1, jpgc-functions=2.1, jpgc-casutg=2.9, jpgc-dummy=0.4, jpgc-filterresults=2.2, jpgc-ffw=2.0, jpgc-ggl=2.0, tilln-formman=1.0, jpgc-httpraw=0.1, jpgc-fifo=0.2, jmeter.pack-listener=1.7, jpgc-graphs-vs=2.0, jpgc-mergeresults=2.1, bzm-parallel=0.9, jpgc-prmctl=0.4, jpgc-perfmon=2.1, jpgc-plugins-manager=1.6, bzm-random-csv=0.7, jpgc-rotating-listener=0.2, ssh-sampler=1.1.1-SNAPSHOT, jpgc-webdriver=3.3, jpgc-synthesis=2.2, jpgc-plancheck=2.4, jpgc-tst=2.5, jpgc-udp=0.4, jpgc-csvars=0.1, jpgc-xml=0.1, jmeter-core=5.4, jmeter-ftp=5.4, jmeter-http=5.4, jmeter-jdbc=5.4, jmeter-jms=5.4, jmeter-junit=5.4, jmeter-java=5.4, jmeter-ldap=5.4, jmeter-mail=5.4, jmeter-mongodb=5.4, jmeter-native=5.4, jmeter-tcp=5.4, jmeter-components=5.4, jpgc-standard=2.0]
+2021-03-02 07:43:43,680 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [ssh-sampler]

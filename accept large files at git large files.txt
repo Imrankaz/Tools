@@ -1,0 +1,13 @@
+https://git-lfs.github.com/
+
+download & install
+go to git file
+open git bash
+
+**write this commands:
+
+git lfs install
+
+git lfs track "*.exe"    [adding this command .exe large files can be added smoothly]
+
+git add .gitattributes
